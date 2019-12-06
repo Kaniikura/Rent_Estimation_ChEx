@@ -11,7 +11,7 @@
    chromeの設定   
    -> 拡張機能   
    -> パッケージ化されていない拡張機能を読み込む   
-   -> ダウンロードしたmasterのサブディレクトリ(manifest.jsonなどが含まれているフォルダ)を選択  <br>  
+   -> ダウンロードしたmasterのサブディレクトリ(chrome-extension)を選択  <br>  
 3. SUUMO様のサイトで賃貸物件を検索し([例．渋谷駅の検索結果](https://suumo.jp/chintai/tokyo/ek_17640/))，  
    物件の詳細をクリック．  
    すると実際の家賃の下に推定値が表示されます(Congrats!).
